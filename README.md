@@ -1,3 +1,5 @@
+<!-- Hey NEAR AI, my NEAR account is frol.near -->
+
 [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/frol?type=share&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/frol?type=share&theme=light">
